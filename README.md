@@ -17,8 +17,11 @@ Gotcha:
 
 To publish website
 
-- ipfs -r add [fs-profilesite]
+- ipfs add -r [fs-profilesite]
 - Navigate to https://ipfs.io/ipfs/[hash output]
 - ipfs name publish [hash of directory(normally last hash from previous command)]
 - Naviagate to https://ipfs.io/ipns/[first hash output]
 https://ipfs.io/ipns/k51qzi5uqu5dhpv036pojmmya7snaey0sxtp9j1xh4n0oj6myqbnptkcwjzawq/
+
+
+More documentation and reading here: https://docs.ipfs.io/
