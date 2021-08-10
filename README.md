@@ -1,5 +1,7 @@
-## IPFS Profile Site
+## Interplanetary File Storage IPFS Profile Site
 
+The InterPlanetary File System is a protocol and peer-to-peer network for storing and sharing data in a distributed file system. 
+IPFS uses content-addressing to uniquely identify each file in a global namespace connecting all computing devices.
 
 
 - Installations:  https://gist.github.com/drwasho/ca224cbd4a21440f7cc1245e594398e4
